@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/ArdiGans/Patrickbot
+> git clone https://github.com/ArdiGans007/BotPatrick
 ```
 
 ## Install the dependencies:
@@ -15,7 +15,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd Patrickbot
+> cd BotPatrick
 > bash install.sh
 ```
 
